@@ -7,11 +7,12 @@ The Image Processing Software is a powerful tool designed to process images and 
 
 ### OUTPUT
 
-<img src="Output-2.png"/>
+<img src="Output-2.PNG"/>
 <br>
-<img src="Output.png"/>
+<img src="Output.PNG"/>
 <br>
-<img src="UI-1.png"/>
+<img src="UI-1.PNG"/>
+<br>
 ### Key Features:
 
 ### Image Text Extraction:
